@@ -1,2 +1,4 @@
 This is a git test!
 wanglipeng
+Git is a distributed version control system.
+Git is free software.

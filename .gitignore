@@ -1,0 +1,9 @@
+!foo.txt
+*html
+!fool.html
+*.[oa]
+/tt/wlp.txt
+/tt/
+/tt/*.txt
+/wlp/
+
